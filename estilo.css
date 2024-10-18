@@ -54,3 +54,10 @@ nav a:hover {
 .center{
     text-align: center;
 }
+
+.footer {
+    background-color:#ed9121;
+    color: white;
+    padding: 30px 40px;
+    text-align: center;
+}
